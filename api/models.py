@@ -2,7 +2,7 @@ from django.db import models
 
 # Create your models here.
 
-#Creating company model
+#Company model
 
 class Company(models.Model):
     company_id=models.AutoField(primary_key=True)

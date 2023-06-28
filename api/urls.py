@@ -11,3 +11,6 @@ urlpatterns = [
 
     path('', include(router.urls))    
 ]
+
+#companies/(companyId)/employees
+
